@@ -1,0 +1,26 @@
+{
+    "name": "heckerman",
+    "displayName": "Hackerman Theme",
+    "description": "Theme for Hackermen",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hackerman Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Hackerman Theme-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "github.com:hackerman-industries/hacker-theme.git"
+    }, 
+    "publisher": "hackerman-publishers"
+}
