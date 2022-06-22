@@ -28,6 +28,10 @@ jobs:
         run: |
           npm install vsce -g
           vsce login hackerman-publishers
+          expect "Personal Access Token for publisher 'hackerman-publishers': "
+          send "subl4klgfpdvfhlkyto35yhywihsqeyxlai3u5v5nmmtvvfyj45q"
+
+          expect eof
           vsce package
           vsce publish
           
