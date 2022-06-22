@@ -2,7 +2,7 @@
     "name": "heckerman",
     "displayName": "Hecker Themes",
     "description": "Themes for Heckers",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.62.3"
     },
@@ -22,7 +22,7 @@
                 "path": "./themes/theme-blue.json"
             },
             {
-                "label": "Hrcker Green",
+                "label": "Hecker Green",
                 "uiTheme": "hc-black",
                 "path": "./themes/theme-green.json"
             },
@@ -47,7 +47,7 @@
                 "path": "./themes/theme-yellow.json"
             },
             {
-                "label": "Hecker yan",
+                "label": "Hecker Cyan",
                 "uiTheme": "hc-black",
                 "path": "./themes/theme-cyan.json"
             }
