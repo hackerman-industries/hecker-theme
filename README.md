@@ -2,6 +2,4 @@
 
 ## Hacker Theme for Hackers
 
-Created by Porter
-
-
+A High-contrast theme with multiple colour options depending on the mood
